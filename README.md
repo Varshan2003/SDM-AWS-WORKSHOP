@@ -57,6 +57,4 @@
 
 - Review and cleanup
 	- Review the complete AWS architecture
-	- Discuss possible improvements
-	- Delete workshop resources
 	- Identify next steps for learning AWS
